@@ -111,7 +111,7 @@ $(document).ready( function() {
                 loadMore: {
                     element: '#port-loadMore',
                     action: 'click',
-                    loadItems: 2,
+                    loadItems: 3,
                 }
             }
     }); 
